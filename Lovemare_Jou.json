@@ -1,0 +1,17 @@
+{
+  "title": "Lovemare Jou",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "001": {
+      "title": "First Chapter",
+      "last_updated": "1760885743",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8463wb6g4x"
+      },
+      "volume": "01"
+    }
+  }
+}
